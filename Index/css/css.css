@@ -1,0 +1,41 @@
+
+.daohang
+ul{ 
+    margin: 0px auto;
+    width: 1500px;
+    height: 50px;
+    padding: 0px;
+    border:0px solid #000;
+}  
+li{  
+    list-style-type: none;
+    float: left;
+
+ 
+}  
+
+
+a{  
+    display: block;
+    width: 214px;
+    height: 50px;
+    font-family: Microsoft Yahei;  
+    line-height: 50px;
+    background-color: #006986;  
+    margin: 0px 0px;  
+    color: #fff;  
+    text-align: center;  
+    text-decoration: none;
+    font-size: 17px;  
+}  
+a:hover{  
+    background-color: #d1d4d4;  
+}  
+
+
+*{padding:0;margin:0;}
+.con{width:1000px;margin:0 auto;padding:10px 0;}
+.con:after{clear:both;display:block;width:0;height:0;content:""}
+.pic{width:330px;height:280px;float:left;border:1px solid #ccc}
+.pic img{width:330px;height:280px;}
+.cent{float:left;width:500px;margin-left:30px;}
